@@ -38,7 +38,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/test_guard.py\""
+            "command": "python3 .claude/hooks/test_guard.py"
           }
         ]
       }
